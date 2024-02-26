@@ -5,11 +5,11 @@
 - 🌱 estudando React e Spring Boot
 
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
 
 <a href="https://github.com/APBielzinx">  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APbielzinx&show_icons=true&theme=dark&card_width=400em)‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APbielzinx&show_icons=true&theme=dark&card_width=400em) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APbielzinx&hide_progress=false&layout=compact&theme=dark&card_width=350em)
 
