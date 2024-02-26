@@ -4,8 +4,15 @@
 
 - 🌱 estudando React e Spring Boot
 
+
+<div style="display: inline_block">
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APbielzinx&show_icons=true&theme=dark&card_width=450em)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APbielzinx&hide_progress=false&layout=compact&theme=dark&card_width=450em)
+  
+</div>
+
 
 
 <div style="display: inline_block"><br>
