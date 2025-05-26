@@ -2,7 +2,6 @@
 
 
 
-- 🌱 estudando React e Spring Boot
 
 
 
